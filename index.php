@@ -1,0 +1,11 @@
+<?php include("components/head.php")?>
+<?php include("components/spinner.php")?>
+<?php include("components/topvar.php")?>
+<?php include("components/navbar.php")?>
+<?php include("components/header.php")?>
+<?php include("components/about.php")?>
+<?php include("components/service.php")?>
+<?php include("components/feature.php")?>
+<?php include("components/appointment.php")?>
+<?php include("components/footer.php")?>
+<?php include("components/scripts.php")?>
